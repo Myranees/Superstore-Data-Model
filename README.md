@@ -53,19 +53,19 @@ This project builds an end-to-end ETL (Extract, Transform, Load) pipeline for th
 
 ---
 
-## 🌐 Technologies Used
+## Technologies Used
 
 - **Python**, `pandas`, `Featuretools`
 - **Snowflake** (data warehousing)
 - **Power BI** (dashboarding)
 - **Google Colab** (collaborative development)
 
-### 🔗 Links
+### Links
 - 📊 [Colab Notebook (Feature Engineering)](https://colab.research.google.com/drive/1JS9eJGBSwH4Ox_uoTWNK7cqXT6MwNKlD?usp=sharing)
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 The pipeline built here demonstrates how modern technologies can be combined to:
 - Automate data preparation
